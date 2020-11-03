@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <p>Para Commit</p>
+      <p>Para Ccommit</p>
     </div>
   );
 }
